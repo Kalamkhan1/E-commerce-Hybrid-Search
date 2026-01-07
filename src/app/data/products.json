@@ -1,0 +1,90 @@
+[
+  {
+    "id": "001",
+    "name": "Nike Running Shoes",
+    "description": "High-performance Nike running shoes for daily training",
+    "price": 120,
+    "category": "footwear",
+    "rating": "4.6",
+    "colors": ["blue/white", "black"],
+    "features": ["lightweight", "cushioned", "breathable"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nike_running_shoes_01.jpg/320px-Nike_running_shoes_01.jpg"
+  },
+  {
+    "id": "002",
+    "name": "Adidas Sneakers",
+    "description": "Stylish Adidas sneakers with boost cushioning",
+    "price": 140,
+    "category": "footwear",
+    "rating": "4.5",
+    "colors": ["red", "white/black"],
+    "features": ["energy return", "durable", "supportive"],
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&fm=jpg"
+  },
+  {
+    "id": "003",
+    "name": "Nike Air Max",
+    "description": "Nike Air Max shoes with visible air cushioning",
+    "price": 150,
+    "category": "footwear",
+    "rating": "4.7",
+    "colors": ["orange/black", "grey"],
+    "features": ["air cushion", "comfortable", "versatile"],
+    "image": "https://png.pngtree.com/png-clipart/20231025/original/pngtree-nike-air-max-running-shoes-png-image_13147992.png"
+  },
+  {
+    "id": "004",
+    "name": "Puma Running Shoes",
+    "description": "Puma athletic running shoes for speed",
+    "price": 110,
+    "category": "footwear",
+    "rating": "4.4",
+    "colors": ["green", "yellow/black"],
+    "features": ["grip", "lightweight", "flexible"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Puma_running_shoe.jpg"
+  },
+  {
+    "id": "005",
+    "name": "Under Armour Shoes",
+    "description": "Under Armour training shoes with charged cushion",
+    "price": 130,
+    "category": "footwear",
+    "rating": "4.5",
+    "colors": ["navy", "red/white"],
+    "features": ["responsive", "stable", "breathable"],
+    "image": "https://images.pexels.com/photos/1598506/pexels-photo-1598506.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "id": "006",
+    "name": "Asics Gel Shoes",
+    "description": "Asics gel-cushioned running shoes",
+    "price": 135,
+    "category": "footwear",
+    "rating": "4.8",
+    "colors": ["purple", "black/grey"],
+    "features": ["gel cushion", "shock absorption", "durable"],
+    "image": "https://pngimg.com/uploads/sneakers/sneakers_PNG115.png"
+  },
+  {
+    "id": "007",
+    "name": "Reebok Classic",
+    "description": "Reebok classic sneakers for casual wear",
+    "price": 100,
+    "category": "footwear",
+    "rating": "4.3",
+    "colors": ["white", "blue"],
+    "features": ["retro style", "comfort", "versatile"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Reebok_Classic_2.jpg/320px-Reebok_Classic_2.jpg"
+  },
+  {
+    "id": "008",
+    "name": "New Balance Trainer",
+    "description": "New Balance fresh foam trainer shoes",
+    "price": 145,
+    "category": "footwear",
+    "rating": "4.6",
+    "colors": ["grey/orange", "black"],
+    "features": ["foam midsole", "wide fit", "smooth ride"],
+    "image": "https://images.unsplash.com/photo-1543162338-89da3f3a14f5?w=400&fm=jpg"
+  }
+]
