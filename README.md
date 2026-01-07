@@ -42,8 +42,7 @@ Detailed view of selected products.
 
 ## 🔗 Application
 
-**[Link to Live Application](https://e-commerce-hybrid-search-seven.vercel.app/)**
-*Note: This is a local development build. Run locally with `npm run dev`.*
+**[Link to Live Application](https://semantic-search-eta.vercel.app/)**
 
 
 ## Getting Started
