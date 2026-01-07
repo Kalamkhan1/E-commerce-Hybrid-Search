@@ -1,10 +1,8 @@
 import { InferenceClient } from '@huggingface/inference';
 import { getPineconeClient } from '../../lib/pinecone';
 import { NextResponse } from 'next/server';
-import { config } from "dotenv";
 import { AutoTokenizer } from "@xenova/transformers";
 
-config({ path: "../../.env.local" });
 
 // Start: Hybrid Search Helpers (BERT Token Count)
 const generateSparseVectors = async (texts: string[]) => {
